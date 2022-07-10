@@ -18,7 +18,6 @@ You are expected to implement the following 4 REST APIs endpoints:
 
 **Note:** The specification for Student data, is as follows:
 ```
-{
 
 studentId : (should be the primary key field)
 
